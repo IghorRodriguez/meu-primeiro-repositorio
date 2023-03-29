@@ -1,0 +1,45 @@
+
+man git verificar se o programa da instalado se sim aperta A
+
+man vim verificar se o programa da instalado se sim aperta A 
+
+comando ls (verificacão) 
+comando ls -la (verificacão completa)
+
+comando mkdir nome desejado da pasta (para criar a pastas do diretorio)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando touch o nome desejado.txt (para criar um novo arquivo na pasta do diretorio)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando vim nome.txt (esse comando serve para abrir o arquivo)
+press insert para modificar o arquivo
+press esc para salvar o arquivo
+press shift+: para concluir a modificação do arquivo
+pres wq para fechar o arquivo apos salvar
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando cat nome.txt (ele nos mostra o conteudo presente no arquivo no propio terminal sem o abrir igaul no comando anterior)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando cd nome.txt (esse comando serve para navegar entre os diretorios esse comando serve como se estivessemos abrindo as pastas)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando cd ../ (é o comando utilizado para retornar ao diretorioanterior)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando rm nome.txt novo_nome.txt (esse comando serve para renomear o arquivo desejado)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando rm -r nome_da_pasta novo_nome_da_pasta (esse comando serve para criarmos um novo nome para pasta que contem em nosso diretorio)
+ls (verificar se criada ou não)
+ls -la ( verificacão completa do diretorio criado)
+
+comando history(serve para verificarmos todos os comandos utilizados anteriormente no terminal)
