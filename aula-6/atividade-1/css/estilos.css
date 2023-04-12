@@ -1,0 +1,28 @@
+/* #titulo{
+    font-family: Arial;
+}
+
+.introducao{
+    color: red;
+}
+
+.missao{
+    color: blue;
+    font-family: Arial;
+}
+
+#titulo{
+    color:blue;
+    font-family: Arial;
+} 
+
+.introdução, .missao {
+    color:red;
+}
+.missao {
+    font-family: Arial;
+} */
+
+#titulo, .missao {
+    font-family: Arial;
+}

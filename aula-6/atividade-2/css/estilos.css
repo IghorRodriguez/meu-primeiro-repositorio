@@ -1,0 +1,31 @@
+/*strong{
+    color: red;
+} */
+
+/*.missao strong {
+color: red;
+} */
+
+/*#introducao strong {
+    color:blue;
+}*/
+
+/*#titulo strong{
+    color: red;
+}*/
+
+/*h1{
+    color: yellow;
+}*/
+
+/*p strong{
+    color: red;
+}*/
+
+/*article strong {
+    color: blue;
+}*/
+
+article .missao strong{
+    color: green;
+}
