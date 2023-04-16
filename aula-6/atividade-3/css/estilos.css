@@ -1,0 +1,11 @@
+/*article .importante{
+    color: red;
+}*/
+
+/*article > .importante{
+    color: red;
+}*/
+
+article .importante > strong{
+    color:red;
+}

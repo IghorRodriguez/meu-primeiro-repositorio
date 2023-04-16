@@ -1,0 +1,15 @@
+#titulo1, #titulo2, #titulo3, #titulo4 {
+    font-family: Arial;
+}
+#titulo1{
+    color:green;
+}
+.paragrafo-um{
+    font-family: Arial;
+}
+.paragrafo-dois{
+    font-family: Arial;
+}
+article .paragrafo-tres > strong{
+    color: greenyellow;
+}
