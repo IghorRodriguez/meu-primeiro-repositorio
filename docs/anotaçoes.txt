@@ -1,0 +1,5 @@
+aula domingo:
+
+systemctl status snapd.service
+
+workbench

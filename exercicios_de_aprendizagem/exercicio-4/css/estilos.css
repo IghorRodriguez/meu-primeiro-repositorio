@@ -1,0 +1,43 @@
+#titulo1, #titulo2, #titulo3, #titulo4, #titulo5 {
+    font-family:Arial;
+}
+
+.paragrafo-um, .paragrafo-dois{
+    font-family:Arial;
+} 
+
+#titulo2{
+    color:red;
+}
+
+#titulo3{
+    color:green;
+}
+
+#titulo4{
+    color:purple;
+}
+
+#titulo5{
+    color:gold;
+}
+
+article #titulo1 > strong{
+    color: darkblue;
+}
+
+article #titulo3 > strong{
+    color: darkgreen;
+}
+
+article #titulo4 > strong{
+    color:darkslateblue;
+}
+
+article #titulo5 > strong{
+    color: orangered;
+}
+    
+article #titulo2 > strong{
+    color:darkred;
+}
