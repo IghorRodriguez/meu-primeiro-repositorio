@@ -3,3 +3,18 @@ aula domingo:
 systemctl status snapd.service
 
 workbench
+
+Raphael Paulino20:41
+CTRL+D - para selecionar multilinhas
+Raphael Paulino21:01
+Pipe -> |
+Raphael Paulino21:03
+background-color
+Raphael Paulino21:39
+hexadecimal
+possui 16 símbolos
+0123456789ABCDEF
+Raphael Paulino21:46
+https://www.binaryhexconverter.com/decimal-to-hex-converter
+Raphael Paulino22:32
+Trebuchet MS

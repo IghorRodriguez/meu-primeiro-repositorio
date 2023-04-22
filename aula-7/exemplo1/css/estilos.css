@@ -1,0 +1,63 @@
+.caixa1 {
+    background-color: rgb(16, 16, 179);
+    color: white;
+}
+
+/*r -> red | g -> green | b -> blue*/
+/*.caixa2 {
+    background-color: rgb(255, 0, 0);
+}*/
+
+/*.caixa2 {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}*/
+
+/*.caixa2 {
+    background-color: rgb(255, 200, 0);
+    color: rgb(0, 0, 0);
+}*/
+
+/*.caixa2 {
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+}*/
+
+/*.caixa2 {
+    background-color: rgb(255, 0, 150);
+    color: rgb(0, 0, 0);
+}*/
+
+/*.caixa2 {
+    background-color: rgb(255, 0, 255);
+    color: reg(0, 0, 0);
+}*/
+
+.caixa2 {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.caixa3 {
+    background-color: rgb(255, 200, 0);
+    color: rgb(255, 255, 255);
+}
+
+/*.caixa4 {
+    background-color: #ffc800;
+}*/
+
+/*.caixa4 {
+    background-color: #ff00c8;
+    color: #ffffff;
+}*/
+
+.caixa4 {
+    background-color: #ff00c8;
+    color: #fff;
+}
+
+.caixa5 {
+    background-color: #df0;
+    color: #000;
+}
