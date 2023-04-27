@@ -1,0 +1,41 @@
+#titulo0 {
+    background-color: deeppink;
+    color: white;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS';
+    width: 1500px;
+    font-size:large;
+}
+
+#titulo1 {
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:underline;
+}
+
+#titulo2 {
+    background-color: palevioletred;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+#titulo3 {
+    background-color: royalblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+#titulo4 {
+    background-color: purple;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+

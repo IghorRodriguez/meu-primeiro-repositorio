@@ -1,0 +1,47 @@
+body {
+    font-size: 32px;
+}
+
+.nome-empresa {
+    background-color: pink;
+}
+
+.segmento-empresa{
+    background-color: red;
+}
+
+.tecnologia-html {
+    background-color: #00dd00;
+}
+
+.tecnologia-css {
+    background-color: #fdff11;
+}
+
+.tecnologia-java {
+    background-color: #00dddd;
+}
+
+.tecnologia-bootstrap {
+    background-color: #ee00da;
+}
+
+.nome-empresa, .segmento-empresa {
+    height: 100px;
+    width: 300px;
+    display: block;
+}
+
+.tecnologia-html, .tecnologia-css {
+    display: inline;
+    height: 100px;
+    width: 300px;
+}
+
+.tecnologia-bootstrap, .tecnologia-java {
+    width: 300px;
+    height: 100px;
+    /*display: inline;*/
+    display: inline-block;
+
+}
