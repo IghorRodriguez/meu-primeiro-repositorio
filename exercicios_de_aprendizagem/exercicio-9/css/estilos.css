@@ -1,0 +1,126 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+a {
+    color:rgb(247, 245, 245);
+    border: thick;
+    background-color: rgb(15, 3, 49);
+    border-style: solid;
+    border-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo1 {
+    border: thick;
+    border-color: white;
+    background-color: red;
+    color: white;
+    border-style: solid;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.vc {
+    background-color: transparent;
+    color: rgb(247, 247, 248);
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+a { 
+    display: inline-block;
+    color: white;
+}
+
+.card {
+    background-color: white;
+    width: 250px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.tony {
+    background-color: rgb(185, 4, 4);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.steve {
+    background-color: rgb(18, 3, 158);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.bruce {
+    background-color: rgb(4, 151, 4);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.thor {
+    background-color: rgb(238, 241, 10);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.clint {
+    background-color: rgb(145, 5, 145);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.oi{
+    background-color: transparent;
+}
+
+.natasha {
+    background-color: rgb(124, 4, 4);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.sam {
+    background-color: rgb(15, 6, 66);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.rhodes {
+    background-color: rgb(59, 59, 58);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.bucky {
+    background-color: rgb(17, 17, 17);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.scott {
+    background-color: rgb(241, 1, 1);
+    width: 250px;
+    height: 200px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}

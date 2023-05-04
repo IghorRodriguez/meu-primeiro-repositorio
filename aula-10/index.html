@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Formulários</title>
+        <link rel="stylesheet" href="css/estilos.css">
+    </head>
+    <body>
+        <h1>Os Guardiões da Galáxia vol 3</h1>
+        <h2>Grande estréia dia 04/05/2023</h2>
+        <p>Garanta já o seu ingresso e o seu combo, incluso pipoca grande e dois refrigerantes médios mais um brinde exclusivo!</p>
+        <p>Garanta seu ingresso com antecedência no nosso site e preencha com seus dados corretamente, será necessário o seu nome, sobrenome, email e o seu telefone para realizar a compra.</p>
+
+        <div class="filme">
+            <form action="backend/cadastrar.php" method="post">
+                <div class="campo-de-dados">
+                    <label for="name">Nome:</label><br>
+                    <input id="name" type="text" name="name" velue="" maxlength="25">
+                </div>
+
+                <div class="campo-de-dados">
+                    <label for="last_name">Sobrenome:</label><br>
+                    <input id="last_name" type="text" name="last_name" velue="" maxlength="25">
+                </div>
+
+                <div class="campo-de-dados">
+                    <label for="email">Email:</label><br>
+                    <input id="email" type="text" name="email" velue="" maxlength="25">
+                </div>
+
+                <div class="campo-de-dados">
+                    <label for="telephone">Telefone:</label><br>
+                    <input id="telephone" type="text" name="telephone" velue="" maxlength="25">
+                </div>
+
+                <div class="botao-de-confirmacao">
+                    <button type="submit">Inscrever</button>
+                </div>
+
+
+            </form>
+        </div>
+    </body>
+</html>
