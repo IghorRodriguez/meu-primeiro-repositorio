@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    text-align: center;
+    background-color: greenyellow;
+    border: 10px solid white;
+    color: aliceblue;
+    font-size: 38px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 32px;
+    color: yellowgreen;
+    font-family: Arial;
+    text-decoration: underline;
+}
+
+.text {
+    font: 24px italic;
+    text-align:center;
+    color: rgb(247, 245, 245);
+    font-family: Arial;
+}
+
+.img {
+    background-color: greenyellow;
+    padding: 20px 0px;
+}
+
+.inscricao {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+ 
+.comunidade {
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial;
+}
+
+a {
+    color: yellowgreen;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}

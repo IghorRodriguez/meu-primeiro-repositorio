@@ -52,7 +52,7 @@
             <form action="backend/cadastrar.php" method="POST">
 
                 <div class="campo-de-dados">
-                    <label for="name">Nome:</label><br>
+             ´       <label for="name">Nome:</label><br>
                     <input id="name" type="text" name="name" velue="" maxlength="25">
                 </div>
 

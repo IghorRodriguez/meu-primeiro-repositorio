@@ -1,0 +1,28 @@
+body {
+    font-size: 32px;
+    margin: 0px;
+}
+
+.frase-1, .frase-2, .referencia {
+    width: 500px;
+
+    text-align: justify;
+    background-color: yellow;
+}
+
+.referencia {
+    background-color: blue;
+    height: 20px;
+}
+
+.frase-1 {
+    border: 3px solid red;
+    padding: 20px;
+    box-sizing: content-box;
+}
+
+.frase-2 {
+    border: 20px solid red;
+    box-sizing: border-box;
+    padding: 20px;
+}
