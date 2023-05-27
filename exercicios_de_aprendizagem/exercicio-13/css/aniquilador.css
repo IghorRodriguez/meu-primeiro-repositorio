@@ -1,0 +1,88 @@
+.vilao {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+
+.img1 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.text {
+    font: 24px italic Arial;
+}
+
+.img2 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.super {
+    text-align: center;
+    background-color: darkgreen;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid blueviolet;
+}
+.poderes {
+    background-color: blueviolet;
+    border: 10px solid darkgreen;
+
+}
+
+.poder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkred;
+    border:5px solid darkorange;
+    color: white;
+    margin: opx;
+}
+.img3 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.habilidade {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+
+.img4 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.fraquezas {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+.img5 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    color: darkgreen;
+}

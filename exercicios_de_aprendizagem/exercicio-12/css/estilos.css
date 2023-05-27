@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.diadasmaes {
+    text-align: center;
+    font-size: 40px;
+    border: 20px solid color rgb(255, 253, 253);
+    background-color: rgb(126, 4, 20);
+    margin-top: 10px;
+    color: white;
+}
+
+.text1 {
+    font-family: Arial;
+    font-size: 28px;
+    color: white;
+
+}
+
+.mae {
+    background-color: rgb(126, 4, 20);
+    text-align: center;
+    border: 10px solid white;
+    box-sizing: border-box;
+}
+
+.filhos {
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(126, 4, 20);
+    border: 10px solid white;
+    box-sizing: border-box;
+}
+
+.familia {
+    text-align: center;
+    background-color: rgb(126, 4, 20);
+    border: 10px solid white;
+    box-sizing: border-box;
+}

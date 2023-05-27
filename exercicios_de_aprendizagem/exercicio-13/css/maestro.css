@@ -1,0 +1,25 @@
+.vilao {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+    padding: 8px;
+}
+.img1 {
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+}
+
+.text {
+    font: 24px italic Arial;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: darkorchid;
+}

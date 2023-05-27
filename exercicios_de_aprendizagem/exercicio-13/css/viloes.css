@@ -1,0 +1,328 @@
+body {
+    background-color: rgb(5, 5, 5);
+}
+
+.titulo1 {
+    background-color: rgb(250, 249, 249);
+    color: rgb(68, 1, 1);
+    text-align: center;
+    border: 15px solid rgb(73, 1, 1);
+   font-size: 34px;
+}
+
+.vilao {
+    display: inline-block;
+    background-color: white;
+    border: 21px solid darkred;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+a {
+    color: red;
+    font-size: 28px;
+    text-align: center;
+}
+
+.knull {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.ultron {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.aniquilador {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.mephisto {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.vilao2 {
+    display: inline-block;
+    background-color: white;
+    border: 20px solid darkred;
+}
+
+.card2 {
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.thanos{
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.beyonder{
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.hela {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.kang {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.vilao3 {
+    display: inline-block;
+    background-color: white;
+    border: 21px solid darkred;
+}
+
+.card3 {
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.fenix {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.apocalipse {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.destino {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.carnificina {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.vilao3 {
+    display: inline-block;
+    background-color: white;
+    border: 21px solid darkred;
+}
+
+.card3 {
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.graviton {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.magneto {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.maestro {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.loki {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.titulo {
+    text-align: center;
+    background-color: darkred;
+    border: 10px solid white;
+    color: aliceblue;
+    font-size: 38px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    text-decoration: underline;
+}
+
+.text {
+    font: 24px italic;
+    text-align:center;
+    color: rgb(247, 245, 245);
+    font-family: Arial;
+}
+
+.img {
+    background-color: darkred;
+    padding: 20px 0px;
+}
+
+.inscricao {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+ 
+.comunidade {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+.inform {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    font-size: 28px;
+    font-family: 'Trebuchet MS';
+}
+
+.direcionamento {
+    text-align: center;
+}
+
+.vilao4 {
+    display: inline-block;
+    background-color: white;
+    border: 21px solid darkred;
+}
+
+.card4 {
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.evolucionario {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.molecular {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.dormammu {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.dracula {
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}

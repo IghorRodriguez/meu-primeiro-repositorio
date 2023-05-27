@@ -1,0 +1,114 @@
+#marvel {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+#marvel2 {
+    background-color: rgb(243, 243, 15);
+    color: black;
+}
+
+.lancamento {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.oi1 {
+    background-color: red;
+    color: white;
+    display: inline;
+}
+.vc1 {
+    background-color: brown;
+    color: white;
+    display: inline;
+}
+
+.oi2 {
+    background-color: darkgreen;
+    color: white;
+    display: inline;
+}
+.vc2 {
+    background-color: darkred;
+    color: white;
+    display: inline;
+}
+
+.oi3{
+    background-color: grey;
+    color: white;
+    display: inline;
+}
+.vc3 {
+    background-color: firebrick;
+    color: white;
+    display: inline;
+}
+
+.oi4 {
+    background-color: darkblue;
+    color: white;
+    display: inline;
+}
+.vc4 {
+    background-color:rgb(29, 6, 6);
+    color: white;
+    display: inline;
+}
+
+.oi5 {
+    background-color: darkolivegreen;
+    color: white;
+    display: inline;
+}
+.vc5 {
+    background-color:rgb(95, 182, 60) ;
+    color:white ;
+    display: inline;
+}
+
+.oi6 {
+    background-color: greenyellow;
+    color: white;
+    display: inline;
+}
+.vc6 {
+    background-color: rgb(33, 109, 23);
+    color:white;
+    display: inline;
+}
+
+.oi7 {
+    background-color: blue;
+    color: white;
+    display: inline;
+}
+.vc7 {
+    background-color: rgb(68, 64, 64);
+    color: white;
+    display: inline;
+}
+
+.oi8 {
+    background-color: rgb(51, 5, 7);
+    color: white;
+    display: inline;
+}
+.vc8 {
+    background-color: rgb(107, 77, 77);
+    color: white;
+    display: inline;
+}
+
+.oi9 {
+    background-color: goldenrod;
+    color: white;
+    display: inline ;
+}
+.vc9 {
+    background-color: gold;
+    color: white;
+    display: inline;
+}

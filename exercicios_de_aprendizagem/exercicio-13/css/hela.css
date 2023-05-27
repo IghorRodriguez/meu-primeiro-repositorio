@@ -1,0 +1,53 @@
+.vilao {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+}
+.img1 {
+    background-color: green;
+    border: 15px solid black;
+    text-align: center;
+}
+
+.text {
+    font: 24px italic Arial;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: white;
+}
+.img2 {
+    background-color: green;
+    border: 53px solid black;
+    display: inline-block;
+    padding: 10px;
+
+}
+.super {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font: 38px bold Arial;
+    border:10px solid black;
+}
+.poderes {
+    background-color: green;
+    border: 10px solid black;
+
+}
+
+.poder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkolivegreen;
+    border:5px solid white;
+    color: black;
+    margin: opx;
+}

@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(252, 251, 251);
+}
+
+.knull {
+    text-align: center;
+    background-color: darkslategrey;
+    color: black;
+    border: 10px solid darkred;
+    box-sizing: border-box;
+    font: 36px bold Arial;
+}
+
+.deus {
+    text-align: center;
+    text-decoration: underline;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.img1 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.text1 {
+    font: 24px italic Arial;
+}
+
+.exercito {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.img2{
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.trevas {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.img3 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.vilao {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.img4 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.img5 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+a {
+    display: block;
+    font-size: 30px;
+    color: darkslategrey;
+    text-align: center;
+}

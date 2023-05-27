@@ -1,0 +1,45 @@
+.vilao {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid green;
+    text-align: center;
+    padding: 8px;
+}
+.img1 {
+    background-color: darkmagenta;
+    border: 15px solid green;
+    text-align: center;
+}
+
+.text {
+    font: 24px italic Arial;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkmagenta;
+    color: white;
+}
+.super {
+    text-align: center;
+    background-color: darkmagenta;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid green;
+}
+.poderes {
+    background-color: darkmagenta;
+    border: 10px solid green;
+
+}
+
+.poder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkgoldenrod;
+    border:5px solid darkslategrey;
+    color: white;
+}

@@ -1,0 +1,71 @@
+.ultron {
+    text-align: center;
+    background-color: goldenrod;
+    color: darkred;
+    border: 15px solid darkred;
+    font: 38px bold Arial;
+    padding: 10px;
+}
+
+.img1 {
+    text-align: center;
+    background-color: darkslategrey;
+    border: 5px solid black;
+}
+
+.text1 {
+    font: 24px italic Arial;
+}
+
+.img2 {
+    text-align: center;
+    display: inline-block;
+    background-color: darkslategrey;
+    border: 27px solid black;
+    padding-right: 32px;    
+    padding-left: 32px;
+}
+
+.habilidade {
+    text-align: center;
+    background-color: darkviolet;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid darkblue
+}
+.poderes {
+    
+    background-color: darkviolet;
+    border: 10px solid darkblue;
+
+}
+
+.poder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkred;
+    border:5px solid darkorange;
+    color: white;
+    margin: opx;
+}
+
+.img3 {
+    text-align: center;
+    background-color: darkslategrey;
+    border: 5px solid black; 
+}
+
+.personalidade {
+    text-align: center;
+    background-color: darkgreen;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid darkorange;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+}

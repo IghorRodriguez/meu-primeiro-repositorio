@@ -1,0 +1,25 @@
+.vilao {
+    font: 38px italic Arial;
+    background-color: darkred;
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+}
+.img1 {
+    background-color: darkred;
+    border: 15px solid black;
+    text-align: center;
+}
+
+.text {
+    font: 24px italic Arial;
+}
+
+a {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkred;
+    color: white;
+}

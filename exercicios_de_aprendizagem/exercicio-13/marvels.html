@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TheMarvels</title>
+        <link rel="stylesheet" href="css/themarvel.css">
+    </head>
+    <body>
+        <h1 class="titulo">The Marvels Comunity</h1>
+        <h2 class="subtitulo">By Ighor Rodri</h2><br><br><br>
+        <h2 class="inform">Fique por dentro de todo o universo da Marvel seja conteúdos dos quadrinhos ou UCM.</h2>
+        <div class="img">
+            <img class="oi1" src="img/igor1.jpg" rcset style="width: 250px; height: 300px;" >
+
+            <img class=foto src="img/igor2.jpg" rcset style="width: 250px; height: 300px;">
+
+            <img class=foto src="img/igor3.jpg" rcset style="width: 250px; height: 300px;">
+
+            <img class=foto src="img/igor4.jpg" rcset style="width: 250px; height: 300px;">
+
+            <img class=foto src="img/igor5.jpg" rcset style="width: 250px; height: 300px;">
+        </div>
+
+        <h2 class="inform">Fique por dentro de nossos conteúdos, se inscreva em nosso site e vire membro da nossa comunidade nerd !</h2><br>
+        <br><br>
+        <div class="comunidade">
+
+            <a id="rolar-ate-aqui"></a>
+
+            <form action="backend/cadastrar.php" method="POST">
+
+                <div class="campo-de-dados">
+                    <label for="name">Nome:</label><br>
+                    <input id="name" type="text" name="name" velue="" maxlength="30">
+                </div>
+                
+                <div class="campo-de-dados">
+                    <label for="last_name">Sobrenome:</label><br>
+                    <input id="last_name" type="text" name="last_name" velue="" maxlength="15">
+                </div>
+
+                <div class="campo-de-dados">
+                    <label for="email">Email:</label><br>
+                    <input id="email" type="text" name="email" velue="" maxlength="30">
+                </div>
+
+                <div class="campo-de-dados">
+                    <label for="telephone">Telefone:</label><br>
+                    <input id="telephone" type="text" name="telephone" velue="" maxlength="30">
+                </div><br>
+
+                <div class="botao-de-confirmacao">
+                    <button type="submit" class="button is-block is-link is-large is-fullwidth">Inscrever</button><br><br>
+                </div>
+                <br>
+                <?php if (isset($_GET['n']) && isset($_GET['ln']) && isset($_GET['em']) && isset($_GET['tl'])):?>
+
+                <div class="campo-de-dados">
+                    Obrigado pelo seu cadastro!<br><br>
+                    Os dados informados são:<br><br>
+                    
+                    <?php echo $_GET['n'] . ' ' . $_GET['ln'] . ' ' . $_GET['em'] . ' ' . $_GET['tl']; ?>
+                </div>
+                <?php endif; ?>
+            </form>
+
+            <br><br>
+            <div class="conteudo">
+                <div class="card">
+                    <div class="viloes">
+                        <img src="img/viloes.jpg" rcset style="width: 300px; height: 300px;">
+                        <a href="viloes.html">Maiores Vilões</a>
+                    </div>
+                </div>
+        
+                <div class="card">
+                    <div class="vingadores">
+                        <img src="img/vingadores.jpg" rcset style="width: 300px; height: 300px;">
+                        <a href="vingadores.html">os Vingadores</a>
+                    </div>
+                </div>
+        
+                <div class="card">
+                    <div class="xmen">
+                        <img src="img/xmen.jpg" rcset style="width: 300px; height: 300px;">
+                        <a href="xmen.html">X-Mens</a>
+                    </div>
+                </div>
+                   
+                <div class="card">
+                    <div class="inumanos">
+                        <img src="img/inumanos.jpg" rcset style="width: 300px; height: 300px;">
+                        <a href="inumanos.html">Inumanos</a>
+                    </div>
+                </div>
+                </div>
+                <br><br>
+                <div class="conteudo">
+                    <div class="card">
+                        <div class="fantastico">
+                            <img src="img/4fantastico.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="4fantastico.html">Quarteto Fantástico</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="eternos">
+                            <img src="img/eternos.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="eternos.html">Eternos</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="guardioes">
+                            <img src="img/guardioes.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="guardioes.html">Guardiões da Galáxia</a>
+                        </div>
+                    </div>
+                   
+                    <div class="card">
+                        <div class="defensores">
+                            <img src="img/defensores.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="defensores.html">Defensores</a>
+                        </div>
+                    </div>
+                </div>
+                <br><br>
+                <div class="conteudo">
+                    <div class="card">
+                        <div class="sexteto">
+                            <img src="img/sextetosinistro.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="sexteto.html">Sexteto Sinistro</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="aranhaverso">
+                            <img src="img/aranhaverso.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="aranhaverso.html">Aranhaverso</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="Cabala">
+                            <img src="img/cabala.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="cabala.html">Cabala</a>
+                        </div>
+                    </div>
+                   
+                    <div class="card">
+                        <div class="xforce">
+                            <img src="img/xforce.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="xforce.html">X-Force</a>
+                        </div>
+                    </div>
+                </div>
+                
+        </div>
+        <br><br>
+                <div class="conteudo">
+                    <div class="card">
+                        <div class="illuminati">
+                            <img src="img/illuminati.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="illuminati.html">Illuminati</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="newavengers">
+                            <img src="img/newavengers.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="newavengers.html">Novos Vingadores</a>
+                        </div>
+                    </div>
+        
+                    <div class="card">
+                        <div class="thunderbolts">
+                            <img src="img/thunderbolts.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="thunderbolts.html">Thunderbolts</a>
+                        </div>
+                    </div>
+                   
+                    <div class="card">
+                        <div class="cosmicos">
+                            <img src="img/cosmicos.jpg" rcset style="width: 300px; height: 300px;">
+                            <a href="xforce.html">Entidades Cósmicas</a>
+                        </div>
+                    </div>
+                </div>
+                
+        </div>
+        <br><br>
+    </body>
+</html>
