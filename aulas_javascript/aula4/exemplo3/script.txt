@@ -1,0 +1,40 @@
+TRUE ou FAlSE
+
+A condição deve ser verdadeira para resultar em TRUE
+___________________________________________________________
+// ( == ) igual a
+
+true == true -> true
+true == false -> false
+false == true -> false
+false == false -> true
+___________________________________________________________
+// ( != ) é diferente a 
+
+true != true -> false
+true != false -> true
+false != true -> true
+false != false -> false
+___________________________________________________________
+// ( || ) Pelo menos uma tem que ser verdadeira
+
+true || true -> true
+true || false -> true
+false || true -> true
+false || false -> false
+___________________________________________________________
+// ( && ) Para atender a condição os dois tem que ser verdadeiro
+
+true && true -> true
+true && false -> false
+false && true -> false
+false && false -> false
+___________________________________________________________
+// (&) Se a primeira condição for verdadeira ela identifica a condição
+
+true & true -> 1
+true & false -> 1
+false & true -> 0
+false & false -> 0
+___________________________________________________________
+ 
